@@ -1,4 +1,4 @@
-# Automated KYC Name Screening RPA
+# Automated Sanction Name Screening RPA at [OpenSanctions](https://www.opensanctions.org)
 
 This repository contains a proof of concept Robotic Process Automation (RPA) project that demonstrates automation technology applied to bulk KYC (Know Your Customer) name screening. The RPA utilizes Power Automate Desktop to perform automated name screening on the [OpenSanctions](https://www.opensanctions.org) website without manual human intervention.
 
@@ -30,7 +30,7 @@ For each match, it can:
 To use this RPA project to automate sanctions screening on [OpenSanctions](https://www.opensanctions.org), follow these steps:
 
 1. **Prerequisites**: 
-   - Install Power Automate Desktop on your PC.
+   - Install [Power Automate Desktop](https://powerautomate.microsoft.com/en-us/robotic-process-automation/) on your PC.
 
 2. **Configuration**:
    - Create a new project in Power Automate Desktop.
